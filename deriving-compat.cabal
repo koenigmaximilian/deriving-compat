@@ -118,8 +118,6 @@ library
                        Data.Ord.Deriving.Internal
                        Text.Read.Deriving.Internal
                        Text.Show.Deriving.Internal
-
-                       Paths_deriving_compato
   build-depends:       containers          >= 0.1   && < 0.6
                      , ghc-prim
                      , th-abstraction      >= 0.2.2 && < 1
